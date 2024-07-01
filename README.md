@@ -53,8 +53,9 @@ The base content may be submitted as simple lines of text or a mix of markdown a
 
 - Basic landing page. _Done_.
 - Sign-in with crypto wallet (Metamask). _Done_.
-- Account selection/creation once signed in.
-- Add creation.  Spot creation.
+- Account selection/creation once signed in.  _Done(2024-07-01)._
+- Add creation, definition and formats, audiences, bid, budget.
+- Spot creation - format and embedding, audiences, bid.
 - Bidding mechanism.
 - Accounting mechanism.
 - Settlement mechanims.
